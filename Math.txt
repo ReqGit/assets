@@ -1,49 +1,52 @@
+(Addition operation)
+(Subtraction operation)
+× (Multiplication operation)
+÷ (Division operation)
+= (Equality)
+≠ (Not equal to)
+< (Less than)
+(Greater than)
 
-×
-÷
-=
-≠
-<
-≤
-≥
-∞
-π
-√
-^
-%
-°
-∑
-Σ
-∫
-∆
-∈
-∩
-∪
-∴
-∵
-∼
-≈
-⊥
-⊂
-⊃
-⊆
-⊇
-±
-∝
-|x|
-~
-∧
-∨
-⇒
-⇔
-∀
-∃
-∅
-ℕ
-ℤ
-ℚ
-ℝ
-ℂ
-[]
-{}
-()
+≤ (Less than or equal to)
+≥ (Greater than or equal to)
+∞ (Infinity)
+π (Pi - a mathematical constant)
+√ (Square root)
+^ (Exponentiation - raising to a power)
+% (Percentage)
+° (Degree)
+∑ (Summation)
+Σ (Capital sigma - sum symbol)
+∫ (Integral)
+∆ (Delta - change)
+∈ (Element of)
+∩ (Intersection)
+∪ (Union)
+∴ (Therefore)
+∵ (Because)
+∼ (Similar to)
+≈ (Approximately equal to)
+⊥ (Perpendicular)
+⊂ (Subset)
+⊃ (Superset)
+⊆ (Subset or equal to)
+⊇ (Superset or equal to)
+± (Plus-minus)
+∝ (Proportional to)
+|x| (Absolute value)
+~ (Tilde - Approximation)
+∧ (Logical AND)
+∨ (Logical OR)
+⇒ (Implies)
+⇔ (If and only if)
+∀ (For all)
+∃ (There exists)
+∅ (Empty set)
+ℕ (Natural numbers)
+ℤ (Integers)
+ℚ (Rational numbers)
+ℝ (Real numbers)
+ℂ (Complex numbers)
+[] (Square brackets)
+{} (Curly brackets)
+() (Parentheses)
